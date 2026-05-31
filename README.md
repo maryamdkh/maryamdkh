@@ -1,7 +1,4 @@
-### Hey , I'm Maryam Dadkhah!
+### Hey , I'm Maryam Dadkhah Tirani!
 
-###### _Artificial Intelligence & Robotics student_
-
-From 2022, I am studying for a master's degree in AI & Robotics at University of Tehran.
-
+A first-year PhD student at Chalmers and the University of Gothenburg, working on Neuro-symbolic AI. 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryamdkh)](https://github.com/anuraghazra/github-readme-stats)
